@@ -1,7 +1,7 @@
 # python-challenge
-Analyzing bank data to determine total profit/loss, changes in profit/loss, the greatest increase in profits, and the greatest decrease in profits.
+Analyzing bank data to determine total profit/loss, changes in profit/losses, the greatest increase in profits, and the greatest decrease in profits.
 
-Analyzing polling data to find total votes cast, a list of candidates, vote total per canidate, percentage of votes each candidate received, and the election winner.
+Analyzing polling data to find total votes cast, a list of candidates, the vote total per candidate, percentage of votes each candidate received, and the election winner.
 
 
 The main.py file is in both the PyBank folder and the PyPoll folder, this file has the code for both analyses
